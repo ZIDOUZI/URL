@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="encode">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/encode.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

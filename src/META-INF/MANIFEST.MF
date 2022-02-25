@@ -1,0 +1,3 @@
+Manifest-Version: 2.0
+Class-Path: encode.jar kotlin-stdlib.jar kotlin-reflect.jar kotlin-test.jar
+
